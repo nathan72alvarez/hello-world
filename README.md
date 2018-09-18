@@ -1,5 +1,4 @@
 # hello-world
-Just your run-of-the-mill hello-world.
 
 Hello Friends!
 
